@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{1B19158F-E398-40A6-8E3B-350508E125F1}") = "MobileApp.Shared", "MobileApp.Shared\MobileApp.Shared.dxjsproj", "{580F223C-0F64-408D-9762-ACF9EDDEBDBE}"
+EndProject
+Project("{1B19158F-E398-40A6-8E3B-350508E125F1}") = "MobileApp.Mobile", "MobileApp.Mobile\MobileApp.Mobile.dxjsproj", "{AFB27CE0-1B3F-445E-948C-B4171E3D61F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{580F223C-0F64-408D-9762-ACF9EDDEBDBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{580F223C-0F64-408D-9762-ACF9EDDEBDBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{580F223C-0F64-408D-9762-ACF9EDDEBDBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{580F223C-0F64-408D-9762-ACF9EDDEBDBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFB27CE0-1B3F-445E-948C-B4171E3D61F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFB27CE0-1B3F-445E-948C-B4171E3D61F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFB27CE0-1B3F-445E-948C-B4171E3D61F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFB27CE0-1B3F-445E-948C-B4171E3D61F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
